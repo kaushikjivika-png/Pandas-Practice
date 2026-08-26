@@ -16,8 +16,6 @@ The repository is organized from **basic to advanced concepts** and includes han
 
 * Introduction to Pandas
 * Installing and importing Pandas
-* Series
-* DataFrame
 * Creating Series and DataFrames
 * Rows, columns, index, and values
 
