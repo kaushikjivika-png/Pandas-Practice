@@ -23,15 +23,6 @@ The repository is organized from **basic to advanced concepts** and includes han
 
 * `read_csv()`
 * `read_excel()`
-* `head()`
-* `tail()`
-* `sample()`
-* `shape`
-* `columns`
-* `index`
-* `info()`
-* `describe()`
-* `dtypes`
 
 ### 03. Selection and Indexing
 
