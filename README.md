@@ -28,8 +28,6 @@ The repository is organized from **basic to advanced concepts** and includes han
 
 * Selecting single and multiple columns
 * Row selection
-* `loc[]`
-* `iloc[]`
 * Boolean indexing
 
 ### 04. Filtering Data
