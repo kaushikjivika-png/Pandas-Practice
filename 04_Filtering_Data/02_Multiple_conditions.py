@@ -16,3 +16,6 @@ print(df[(df["city"] == "Delhi") | (df["city"] == "Mumbai")])
 
 # Multiple conditions using AND
 print(df[(df["sales"] > 2000) & (df["sales"] < 5000)])
+
+# isin() condition
+print(df[df["customer_name"].isin("Aman")
